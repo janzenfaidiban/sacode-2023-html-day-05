@@ -7,3 +7,5 @@ Belajar Font Awesome
 
 ## GitHub Pages hasil belajar
 
+https://janzenfaidiban.github.io/sacode-2023-html-day-05/
+
